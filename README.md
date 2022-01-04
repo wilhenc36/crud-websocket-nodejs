@@ -8,7 +8,7 @@ Don't forget to install the Node packages, using
 
 And there are some scripts that can help you
 
-### `npm run dev` to run the app in localhost:3000
+### `npm run dev` to run the app on localhost:3000
 
 ### `npm run build` to create a dist of the app
 
