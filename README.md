@@ -2,6 +2,8 @@
 
 This is a simple CRUD web app, where you can create notes, modify or delete them and notice the changes in the other clients in real-time.
 
+You can see the demo here: https://crud-websocket-nodejs.onrender.com/
+
 Don't forget to install the Node packages, using
 
 ### `npm install`
