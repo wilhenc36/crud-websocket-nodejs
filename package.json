@@ -6,7 +6,7 @@
   "scripts": {
     "build": "babel src -d dist && ncp src/public/index.html dist/public/index.html && ncp src/public/main.css dist/public/main.css",
     "dev": "nodemon src/index.js --exec babel-node --ignore src/public",
-    "start": "npm build && node dist/index.js",
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
